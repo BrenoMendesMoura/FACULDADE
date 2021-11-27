@@ -1,0 +1,9 @@
+<?php
+$usu=array("a","b","c");
+$usuario[]="Breno";
+$usuario[]="Brenda";
+$usuario[]="Brenola";
+echo"<br>".$usuario[0];
+echo"<br>".$usuario[1];
+echo"<br>".$usuario[2];
+?>
